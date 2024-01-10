@@ -1,3 +1,3 @@
 # baseball_second-tier-player-s-prediction-of-first-team-records
 
-https://www.notion.so/595e877fab3241568e3a7cc9b85791c9
+노션: https://www.notion.so/839b27b71d4b4a12b5c679c59dfef5be
