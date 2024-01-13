@@ -1,10 +1,8 @@
 <h2>
-<div align="center"> baseball_second-tier-player-s-prediction-of-first-team-records - 위그린 프로젝트
+<div align="center"> baseball_second-tier-player-s-prediction-of-first-team-records
 </div>
   <h4> 프로야구 팀, 선수 기록 예측 프로젝트 - 2군 선수 데이터를 가지고 1군에 갔을 때, 기록 예측 </h4>
 </h2>
-
-# baseball_second-tier-player-s-prediction-of-first-team-records
 <h4>✨노션</<h4>
 NOTION - https://www.notion.so/839b27b71d4b4a12b5c679c59dfef5be
 
