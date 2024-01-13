@@ -20,7 +20,6 @@
 <img width="1135" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/ba7b2b3a-74f5-4688-86d2-04fe567ca9e0">
 <img width="1133" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/e314c860-5909-4ad8-a394-7e98b44dadce">
 <img width="1131" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/fda6aa25-69de-429a-be73-0ee745f7072a">
-![image](https://github.com/hdonghun/Regression_baseball/assets/67058000/2af783ec-f31d-47e9-8d3f-5da9c9553966)
-
-
-
+<시연 영상> 
+<img width="1136" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/206a8169-1b9c-480a-881f-e2d0a20eb53e">
+<img width="1133" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/4127812e-c66b-4d70-980d-bdcf597fb803">
