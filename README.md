@@ -3,6 +3,16 @@
 <h4> 프로야구 팀, 선수 기록 예측 프로젝트 - 2군 선수 데이터를 가지고 1군에 갔을 때, 기록 예측 </h4>
 </h2>
 
+
+<h4>✨기술 스택</h4>
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<h4>✨툴</h4>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+
+
 <h4>✨노션</<h4>
 NOTION - https://www.notion.so/839b27b71d4b4a12b5c679c59dfef5be
 
