@@ -42,5 +42,6 @@ NOTION - https://www.notion.so/839b27b71d4b4a12b5c679c59dfef5be
 <img width="1133" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/4127812e-c66b-4d70-980d-bdcf597fb803">
 
 <h4>✨프로젝트 시연영상</<h4>
+  
 <시연 영상> https://github.com/hdonghun/Regression_baseball/assets/67058000/eb0b3bda-7e76-4a79-a148-bbed164e4a2c
 
