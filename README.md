@@ -1,5 +1,5 @@
 <h2>
-<div align="center"> baseball_second-tier-player-s-prediction-of-first-team-records</div>
+<div align="center"> 2군 선수, 1군을 들어 갔을 때, 기록 예측</div>
 <h4> 프로야구 팀, 선수 기록 예측 프로젝트 - 2군 선수 데이터를 가지고 1군에 갔을 때, 기록 예측 </h4>
 </h2>
 
@@ -15,6 +15,10 @@
 
 <h4>✨노션</<h4>
 NOTION - https://www.notion.so/839b27b71d4b4a12b5c679c59dfef5be
+
+<h4>✨프로젝트 시연영상</<h4>
+
+<시연 영상> https://github.com/hdonghun/Regression_baseball/assets/67058000/eb0b3bda-7e76-4a79-a148-bbed164e4a2c
 
 <h4>✨프로젝트 PPT</<h4>
 <details>
@@ -41,7 +45,5 @@ NOTION - https://www.notion.so/839b27b71d4b4a12b5c679c59dfef5be
 <img width="1136" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/206a8169-1b9c-480a-881f-e2d0a20eb53e">
 <img width="1133" alt="image" src="https://github.com/hdonghun/Regression_baseball/assets/67058000/4127812e-c66b-4d70-980d-bdcf597fb803">
 
-<h4>✨프로젝트 시연영상</<h4>
-  
-<시연 영상> https://github.com/hdonghun/Regression_baseball/assets/67058000/eb0b3bda-7e76-4a79-a148-bbed164e4a2c
+
 
